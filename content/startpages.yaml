@@ -8,6 +8,10 @@
               lbl: ChatGPT
               url: https://chat.openai.com/
             - !Link
+              ico: <i class="fa-solid fa-robot"></i>
+              lbl: Grok
+              url: https://x.com/i/grok
+            - !Link
               ico: <i class="fa-solid fa-magnifying-glass"></i>
               lbl: DuckDuckGo
               url: https://duckduckgo.com/
