@@ -1,6 +1,36 @@
 - name: Home
   columns:
     - categories:
+        - name: Gaming
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
+              lbl: TotalBattle
+              url: https://totalbattle.com/en
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
+              lbl: BTT Chests
+              url: https://logs.tbguide.info/counter/K20/index.php
+            - !Link
+              ico: <i class="fa-brands fa-steam"></i>
+              lbl: Steam
+              url: https://store.steampowered.com/
+            - !Link
+              ico: <i class="fa-solid fa-key"></i>
+              lbl: Key For Steam
+              url: https://www.keyforsteam.de/
+            - !Link
+              ico: <i class="fa-solid fa-gamepad"></i>
+              lbl: Humble Bundle
+              url: https://www.humblebundle.com/
+            - !Link
+              ico: <i class="fa-solid fa-gamepad"></i>
+              lbl: Good Old Games
+              url: https://www.gog.com/
+            - !Link
+              ico: <i class="fa-solid fa-gamepad"></i>
+              lbl: RAWG
+              url: https://rawg.io/
         - name: Search
           rows:
             - !Link
@@ -184,28 +214,6 @@
               ico: <i class="fa-brands fa-instagram"></i>
               lbl: Instagram
               url: https://www.instagram.com/
-        - name: Gaming
-          rows:
-            - !Link
-              ico: <i class="fa-brands fa-steam"></i>
-              lbl: Steam
-              url: https://store.steampowered.com/
-            - !Link
-              ico: <i class="fa-solid fa-key"></i>
-              lbl: Key For Steam
-              url: https://www.keyforsteam.de/
-            - !Link
-              ico: <i class="fa-solid fa-gamepad"></i>
-              lbl: Humble Bundle
-              url: https://www.humblebundle.com/
-            - !Link
-              ico: <i class="fa-solid fa-gamepad"></i>
-              lbl: Good Old Games
-              url: https://www.gog.com/
-            - !Link
-              ico: <i class="fa-solid fa-gamepad"></i>
-              lbl: RAWG
-              url: https://rawg.io/
 - name: Development
   columns:
     - categories:
