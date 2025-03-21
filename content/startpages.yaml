@@ -10,6 +10,23 @@
               url: >-
                 https://webbridge1.corp-apps.com/en-US/meeting/143926/?secret=BILOSIvIusQYq_vYorDkuQ
     - categories:
+        - name: Social
+          rows:
+            - !Link
+              ico: <i class="fa-brands fa-twitter"></i>
+              lbl: Twitter
+              url: https://twitter.com/
+            - !Link
+              ico: <i class="fa-brands fa-linkedin"></i>
+              lbl: Linkedin
+              url: https://www.linkedin.com
+        - name: News
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-newspaper"></i>
+              lbl: G1
+              url: https://g1.globo.com/
+    - categories:
         - name: Gaming
           rows:
             - !Link
@@ -55,7 +72,7 @@
               ico: <i class="fa-solid fa-magnifying-glass"></i>
               lbl: Search
               url: https://google.com/
-        - name: Search
+        - name: Search Engines and AI
           rows:
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
@@ -88,12 +105,6 @@
               ico: <i class="fa-brands fa-stack-exchange"></i>
               lbl: Stack Exchange
               url: https://stackexchange.com/
-        - name: News
-          rows:
-            - !Link
-              ico: <i class="fa-solid fa-newspaper"></i>
-              lbl: G1
-              url: https://g1.globo.com/
     - categories:
         - name: Aggregators
           rows:
@@ -130,14 +141,3 @@
               ico: <i class="fa-brands fa-goodreads-g"></i>
               lbl: Goodreads
               url: https://www.goodreads.com/
-    - categories:
-        - name: Social
-          rows:
-            - !Link
-              ico: <i class="fa-brands fa-twitter"></i>
-              lbl: Twitter
-              url: https://twitter.com/
-            - !Link
-              ico: <i class="fa-brands fa-linkedin"></i>
-              lbl: Linkedin
-              url: https://www.linkedin.com
