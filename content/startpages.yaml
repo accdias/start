@@ -1,6 +1,12 @@
 - name: Home
   columns:
     - categories:
+        - name: RUNA
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Edge Team Bridge
+              url: https://webbridge1.corp-apps.com/en-US/meeting/143926/?secret=BILOSIvIusQYq_vYorDkuQ
         - name: Gaming
           rows:
             - !Link
@@ -11,26 +17,6 @@
               ico: <i class="fa-solid fa-robot"></i>
               lbl: BTT Chests
               url: https://logs.tbguide.info/counter/K20/index.php
-            - !Link
-              ico: <i class="fa-brands fa-steam"></i>
-              lbl: Steam
-              url: https://store.steampowered.com/
-            - !Link
-              ico: <i class="fa-solid fa-key"></i>
-              lbl: Key For Steam
-              url: https://www.keyforsteam.de/
-            - !Link
-              ico: <i class="fa-solid fa-gamepad"></i>
-              lbl: Humble Bundle
-              url: https://www.humblebundle.com/
-            - !Link
-              ico: <i class="fa-solid fa-gamepad"></i>
-              lbl: Good Old Games
-              url: https://www.gog.com/
-            - !Link
-              ico: <i class="fa-solid fa-gamepad"></i>
-              lbl: RAWG
-              url: https://rawg.io/
         - name: Search
           rows:
             - !Link
@@ -49,16 +35,12 @@
               ico: <i class="fa-solid fa-magnifying-glass"></i>
               lbl: Google Search
               url: https://www.google.com/
-        - name: Tools
+        - name: Google
           rows:
             - !Link
               ico: <i class="fa-solid fa-envelope"></i>
               lbl: Mail
               url: https://gmail.com
-            - !Link
-              ico: <i class="fa-solid fa-envelope"></i>
-              lbl: ProtonMail
-              url: https://proton.me/
             - !Link
               ico: <i class="fa-solid fa-calendar-days"></i>
               lbl: Calendar
@@ -75,19 +57,6 @@
               ico: <i class="fa-brands fa-google-drive"></i>
               lbl: Drive
               url: https://drive.google.com/drive/u/0/my-drive
-            - !Separator
-            - !Link
-              ico: <i class="fa-solid fa-sun"></i>
-              lbl: Weather
-              url: https://wttr.in/
-            - !Link
-              ico: <i class="fa-solid fa-person-hiking"></i>
-              lbl: AllTrails
-              url: https://www.alltrails.com/
-            - !Link
-              ico: <i class="fa-solid fa-person-hiking"></i>
-              lbl: Outdoor Active
-              url: https://www.outdooractive.com/en/
     - categories:
         - name: Knowledge
           rows:
@@ -231,10 +200,6 @@
               ico: <i class="fab fa-gitlab"></i>
               lbl: GitLab
               url: https://gitlab.com/
-            - !Link
-              ico: <i class="fas fa-industry"></i>
-              lbl: NPM JS
-              url: https://www.npmjs.com/
         - name: Tools
           rows:
             - !Link
