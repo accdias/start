@@ -26,6 +26,16 @@
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: G1
               url: https://g1.globo.com/
+        - name: Torrents
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-magnet"></i>
+              lbl: TPB
+              url: thepiratebay.org/search.php?q=category:207
+            - !Link
+              ico: <i class="fa-solid fa-magnet"></i>
+              lbl: EZTV
+              url: https://eztvx.to/
     - categories:
         - name: Gaming
           rows:
@@ -37,7 +47,6 @@
               ico: <i class="fa-solid fa-robot"></i>
               lbl: BTT Chests
               url: https://logs.tbguide.info/counter/K20/index.php
-    - categories:
         - name: Google
           rows:
             - !Link
@@ -72,7 +81,7 @@
               ico: <i class="fa-solid fa-magnifying-glass"></i>
               lbl: Search
               url: https://google.com/
-        - name: Search Engines and AI
+        - name: AI
           rows:
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
@@ -82,6 +91,7 @@
               ico: <i class="fa-solid fa-robot"></i>
               lbl: Grok
               url: https://x.com/i/grok
+        - name: Search Engines
             - !Link
               ico: <i class="fa-solid fa-magnifying-glass"></i>
               lbl: DuckDuckGo
