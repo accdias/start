@@ -2,13 +2,14 @@
 - name: index
   columns:
     - categories:
-        - name: RUNA
+        - name: Work
           rows:
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
               lbl: Edge Team Bridge
               url: >-
                 https://webbridge1.corp-apps.com/en-US/meeting/143926/?secret=BILOSIvIusQYq_vYorDkuQ
+    - categories:
         - name: Gaming
           rows:
             - !Link
@@ -19,6 +20,7 @@
               ico: <i class="fa-solid fa-robot"></i>
               lbl: BTT Chests
               url: https://logs.tbguide.info/counter/K20/index.php
+    - categories:
         - name: Google
           rows:
             - !Link
@@ -47,7 +49,7 @@
               url: https://youtube.com/
             - !Link
               ico: <i class="fa-brands fa-youtube"></i>
-              lbl: YT Muusic
+              lbl: YT Music
               url: https://music.youtube.com/
             - !Link
               ico: <i class="fa-solid fa-magnifying-glass"></i>
@@ -103,6 +105,7 @@
               ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: Reddit
               url: https://www.reddit.com/
+    - categories:
         - name: Music
           rows:
             - !Link
