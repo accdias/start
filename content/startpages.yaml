@@ -92,6 +92,7 @@
               lbl: Grok
               url: https://x.com/i/grok
         - name: Search Engines
+          rows:
             - !Link
               ico: <i class="fa-solid fa-magnifying-glass"></i>
               lbl: DuckDuckGo
