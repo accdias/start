@@ -31,7 +31,7 @@
             - !Link
               ico: <i class="fa-solid fa-magnet"></i>
               lbl: TPB
-              url: thepiratebay.org/search.php?q=category:207
+              url: https://thepiratebay.org/search.php?q=category:207
             - !Link
               ico: <i class="fa-solid fa-magnet"></i>
               lbl: EZTV
