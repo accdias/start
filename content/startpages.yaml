@@ -116,6 +116,10 @@
               ico: <i class="fa-brands fa-stack-exchange"></i>
               lbl: Stack Exchange
               url: https://stackexchange.com/
+            - !Link
+              ico: <i class="fa-brands fa-stack-overflow"></i>
+              lbl: Stack Overflow
+              url: https://stackoverflow.com/
     - categories:
         - name: Aggregators
           rows:
