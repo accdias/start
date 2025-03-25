@@ -29,6 +29,10 @@
         - name: Torrents
           rows:
             - !Link
+              ico: <i class="fa-solid fa-movies"></i>
+              lbl: Jellyfin
+              url: http://172.31.254.10:8096
+            - !Link
               ico: <i class="fa-solid fa-magnet"></i>
               lbl: TPB
               url: https://thepiratebay.org/search.php?q=category:207
