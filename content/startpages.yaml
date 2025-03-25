@@ -21,6 +21,7 @@
               lbl: Linkedin
               url: https://www.linkedin.com
         - name: Marketplaces
+          rows:
             - !Link
               ico: <i class="fa-solid fa-dollar"></i>
               lbl: Mercado Livre
