@@ -29,7 +29,7 @@
         - name: Torrents
           rows:
             - !Link
-              ico: <i class="fa-solid fa-movies"></i>
+              ico: <i class="fa-solid fa-video"></i>
               lbl: Jellyfin
               url: http://172.31.254.10:8096
             - !Link
