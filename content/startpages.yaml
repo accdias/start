@@ -20,14 +20,43 @@
               ico: <i class="fa-brands fa-linkedin"></i>
               lbl: Linkedin
               url: https://www.linkedin.com
+        - name: Marketplaces
+            - !Link
+              ico: <i class="fa-solid fa-dollar"></i>
+              lbl: Mercado Livre
+              url: https://mercadolivre.com.br
+            - !Link
+              ico: <i class="fa-solid fa-dollar"></i>
+              lbl: eBay
+              url: https://ebay.com
+            - !Link
+              ico: <i class="fa-solid fa-dollar"></i>
+              lbl: Amazon BR
+              url: https://amazon.com.br
+            - !Link
+              ico: <i class="fa-solid fa-dollar"></i>
+              lbl: Amazon US
+              url: https://amazon.com
+            - !Link
+              ico: <i class="fa-solid fa-dollar"></i>
+              lbl: Temu
+              url: https://temu.com
+            - !Link
+              ico: <i class="fa-solid fa-dollar"></i>
+              lbl: Ali Express
+              url: https://aliexpress.com
         - name: News
           rows:
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: G1
               url: https://g1.globo.com/
-        - name: Torrents
+        - name: Media
           rows:
+            - !Link
+              ico: <i class="fa-solid fa-video"></i>
+              lbl: IMDb
+              url: https://imdb.com
             - !Link
               ico: <i class="fa-solid fa-video"></i>
               lbl: Jellyfin
