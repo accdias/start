@@ -15,17 +15,17 @@
               url: >-
                 https://join.corp-serv.net/en-US/meeting/143314?secret=nYgxDp2aZetcxGKBpGoLWA
             - !Link
-              ico: <i class="fa-solid fa-github"></i>
+              ico: <i class="fa-brands fa-github"></i>
               lbl: GitHub Enterprise
               url: >-
                 https://git.internal.ru.com/orgs/RUNA/repositories
             - !Link
-              ico: <i class="fa-solid fa-openstack"></i>
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
               lbl: OpenStack Dashboard
               url: >-
                 https://dashboard.canonical.lr.corp-apps.com/project/instances/
             - !Link
-              ico: <i class="fa-solid fa-haiku"></i>
+              ico: <i class="fa-brands fa-expeditessl"></i>
               lbl: BigHaiku
               url: >-
                 https://bighaiku-api.techcorpapps.com/orchestrator/login?next=/orchestrator/
