@@ -14,6 +14,26 @@
               lbl: Pau's bridge
               url: >-
                 https://join.corp-serv.net/en-US/meeting/143314?secret=nYgxDp2aZetcxGKBpGoLWA
+            - !Link
+              ico: <i class="fa-solid fa-github"></i>
+              lbl: GitHub Enterprise
+              url: >-
+                https://git.internal.ru.com/orgs/RUNA/repositories
+            - !Link
+              ico: <i class="fa-solid fa-openstack"></i>
+              lbl: OpenStack Dashboard
+              url: >-
+                https://dashboard.canonical.lr.corp-apps.com/project/instances/
+            - !Link
+              ico: <i class="fa-solid fa-haiku"></i>
+              lbl: BigHaiku
+              url: >-
+                https://bighaiku-api.techcorpapps.com/orchestrator/login?next=/orchestrator/
+            - !Link
+              ico: <i class="fa-solid fa-vault"></i>
+              lbl: Vault
+              url: >-
+                https://vault.corp-apps.ru.com/ui/vault/secrets
     - categories:
         - name: Social
           rows:
