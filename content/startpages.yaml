@@ -48,27 +48,27 @@
         - name: Marketplaces
           rows:
             - !Link
-              ico: <i class="fa-solid fa-dollar"></i>
+              ico: <i class="fa-solid fa-store"></i>
               lbl: Mercado Livre
               url: https://mercadolivre.com.br
             - !Link
-              ico: <i class="fa-solid fa-dollar"></i>
+              ico: <i class="fa-brands fa-ebay"></i>
               lbl: eBay
               url: https://ebay.com
             - !Link
-              ico: <i class="fa-solid fa-dollar"></i>
+              ico: <i class="fa-brands fa-amazon"></i>
               lbl: Amazon BR
               url: https://amazon.com.br
             - !Link
-              ico: <i class="fa-solid fa-dollar"></i>
+              ico: <i class="fa-brands fa-amazon"></i>
               lbl: Amazon US
               url: https://amazon.com
             - !Link
-              ico: <i class="fa-solid fa-dollar"></i>
+              ico: <i class="fa-solid fa-cart-shopping"></i>
               lbl: Temu
               url: https://temu.com
             - !Link
-              ico: <i class="fa-solid fa-dollar"></i>
+              ico: <i class="fa-solid fa-cart-shopping"></i>
               lbl: Ali Express
               url: https://aliexpress.com
         - name: News
