@@ -25,7 +25,7 @@
               url: >-
                 https://dashboard.canonical.lr.corp-apps.com/project/instances/
             - !Link
-              ico: <i class="fa-brands fa-expeditessl"></i>
+              ico: <i class="fa-solid fa-lock"></i>
               lbl: BigHaiku
               url: >-
                 https://bighaiku-api.techcorpapps.com/orchestrator/login?next=/orchestrator/
