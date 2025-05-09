@@ -18,27 +18,37 @@
               ico: <i class="fa-brands fa-github"></i>
               lbl: GitHub Enterprise
               url: >-
-                https://git.internal.ru.com/orgs/RUNA/repositories
+                https://git.internal.ru.com/
             - !Link
               ico: <i class="fa-solid fa-cubes-stacked"></i>
-              lbl: OpenStack Dashboard
+              lbl: OpenStack Dashboard LR
               url: >-
-                https://dashboard.canonical.lr.corp-apps.com/project/instances/
+                https://dashboard.canonical.lr.corp-apps.com/
             - !Link
               ico: <i class="fa-solid fa-cubes-stacked"></i>
-              lbl: OpenStack Dashboard
+              lbl: OpenStack Dashboard LAT
               url: >-
                 https://openstack.lat.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: OpenStack Dashboard BEL2
+              url: >-
+                https://openstack.bel2.corp-apps.com/
             - !Link
               ico: <i class="fa-solid fa-lock"></i>
               lbl: BigHaiku
               url: >-
-                https://bighaiku-api.techcorpapps.com/orchestrator/login?next=/orchestrator/
+                https://bighaiku-api.techcorpapps.com/
             - !Link
               ico: <i class="fa-solid fa-vault"></i>
               lbl: Vault
               url: >-
                 https://vault.corp-apps.ru.com/ui/vault/secrets
+            - !Link
+              ico: <i class="fa-solid fa-vault"></i>
+              lbl: PMP
+              url: >-
+                https://password.corp-apps.ru.com/
     - categories:
         - name: Social
           rows:
