@@ -25,6 +25,11 @@
               url: >-
                 https://dashboard.canonical.lr.corp-apps.com/project/instances/
             - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: OpenStack Dashboard
+              url: >-
+                https://openstack.lat.corp-apps.com/
+            - !Link
               ico: <i class="fa-solid fa-lock"></i>
               lbl: BigHaiku
               url: >-
