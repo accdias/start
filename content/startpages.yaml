@@ -48,7 +48,6 @@
               ico: <i class="fa-solid fa-vault"></i>
               lbl: PMP
               url: >-
-                # https://password.corp-apps.ru.com/
                 https://10.142.125.20:7272/
     - categories:
         - name: Social
