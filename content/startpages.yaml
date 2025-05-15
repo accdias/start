@@ -49,6 +49,16 @@
               lbl: PMP
               url: >-
                 https://10.142.125.20:7272/
+            - !Link
+              ico: <i class="fa-brands fa-jira"></i>
+              lbl: Jira
+              url: >-
+                https://jiraops.corp-apps.com
+            - !Link
+              ico: <i class="fa-brands fa-confluence"></i>
+              lbl: Confluence
+              url: >-
+                https://wiki.corp-apps.com
     - categories:
         - name: Social
           rows:
