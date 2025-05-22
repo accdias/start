@@ -15,6 +15,21 @@
               url: >-
                 https://join.corp-serv.net/en-US/meeting/143314?secret=nYgxDp2aZetcxGKBpGoLWA
             - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Web Bridge 1 - Internal
+              url: >-
+                https://webbridge1.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Web Bridge 2 - External
+              url: >-
+                https://webbdrige2.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Web Bridge 3 - Internal
+              url: >-
+                https://webbridge3.corp-apps.com
+            - !Link
               ico: <i class="fa-brands fa-github"></i>
               lbl: GitHub Enterprise
               url: >-
