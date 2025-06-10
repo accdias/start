@@ -74,6 +74,11 @@
               lbl: Confluence
               url: >-
                 https://wiki.corp-apps.com
+            - !Link
+              ico: <i class="fa-brands fa-server"></i>
+              lbl: IPAM
+              url: >-
+                https://ipam.corp-apps.com
     - categories:
         - name: Social
           rows:
