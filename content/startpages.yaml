@@ -79,6 +79,21 @@
               lbl: IPAM
               url: >-
                 https://ipam.corp-apps.com
+            - !Link
+              ico: <i class="fa-brands fa-vmware"></i>
+              lbl: vCenter LAT
+              url: >-
+                https://vcenter.bel2.internal
+            - !Link
+              ico: <i class="fa-brands fa-vmware"></i>
+              lbl: vCenter BEL2
+              url: >-
+                https://vcenter.bel2.internal
+            - !Link
+              ico: <i class="fa-brands fa-vmware"></i>
+              lbl: vCenter LR
+              url: >-
+                https://vcenter.lr.internal
     - categories:
         - name: Social
           rows:
