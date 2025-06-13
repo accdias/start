@@ -75,25 +75,25 @@
               url: >-
                 https://wiki.corp-apps.com
             - !Link
-              ico: <i class="fa-brands fa-server"></i>
+              ico: <i class="fa-solid fa-network-wired"></i>
               lbl: IPAM
               url: >-
                 https://ipam.corp-apps.com
             - !Link
-              ico: <i class="fa-brands fa-vmware"></i>
+              ico: <i class="fa-solid fa-server"></i>
               lbl: vCenter LAT
               url: >-
-                https://vcenter.bel2.internal
+                https://vcenter.bel2.internal/ui
             - !Link
-              ico: <i class="fa-brands fa-vmware"></i>
+              ico: <i class="fa-solid fa-server"></i>
               lbl: vCenter BEL2
               url: >-
-                https://vcenter.bel2.internal
+                https://vcenter.bel2.internal/ui
             - !Link
-              ico: <i class="fa-brands fa-vmware"></i>
+              ico: <i class="fa-solid fa-server"></i>
               lbl: vCenter LR
               url: >-
-                https://vcenter.lr.internal
+                https://vcenter.lr.internal/ui
     - categories:
         - name: Social
           rows:
