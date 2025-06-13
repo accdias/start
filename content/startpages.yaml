@@ -83,7 +83,7 @@
               ico: <i class="fa-solid fa-server"></i>
               lbl: vCenter LAT
               url: >-
-                https://vcenter.bel2.internal/ui
+                https://vcenter-corp.lat.internal/ui
             - !Link
               ico: <i class="fa-solid fa-server"></i>
               lbl: vCenter BEL2
