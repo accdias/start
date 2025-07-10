@@ -65,6 +65,11 @@
               url: >-
                 https://10.142.125.20:7272/
             - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: Rudder
+              url: >-
+                https://lifecycle.vpsmgmt.tools/
+            - !Link
               ico: <i class="fa-brands fa-jira"></i>
               lbl: Jira
               url: >-
