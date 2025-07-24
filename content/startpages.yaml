@@ -63,7 +63,7 @@
               ico: <i class="fa-solid fa-vault"></i>
               lbl: PMP
               url: >-
-                https://10.142.125.20:7272/
+                https://password.corp-apps.com/
             - !Link
               ico: <i class="fa-solid fa-cubes-stacked"></i>
               lbl: Rudder
