@@ -2,7 +2,7 @@
 - name: index
   columns:
     - categories:
-        - name: Work
+        - name: Work Communication
           rows:
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
@@ -30,10 +30,12 @@
               url: >-
                 https://webbridge3.corp-apps.com
             - !Link
-              ico: <i class="fa-solid fa-phone"></li>
+              ico: <i class="fa-solid fa-phone"></i>
               lbl: On-call Extension
               url: >-
                 https://rucucmpub.ru-corp.robo.ru.com/ucmuser/main
+        - name: Work Tools
+          rows:
             - !Link
               ico: <i class="fa-brands fa-github"></i>
               lbl: GitHub Enterprise
@@ -74,6 +76,8 @@
               lbl: IPAM
               url: >-
                 https://ipam.corp-apps.com
+        - name: Work Virtualization
+          rows:
             - !Link
               ico: <i class="fa-solid fa-cubes-stacked"></i>
               lbl: OpenStack Dashboard LR
