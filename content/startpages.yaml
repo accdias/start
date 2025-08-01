@@ -2,7 +2,7 @@
 - name: index
   columns:
     - categories:
-        - name: Communication
+        - name: Work
           rows:
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
@@ -34,8 +34,6 @@
               lbl: On-call Extension
               url: >-
                 https://rucucmpub.ru-corp.robo.ru.com/ucmuser/main
-        - name: Tools
-          rows:
             - !Link
               ico: <i class="fa-brands fa-github"></i>
               lbl: GitHub Enterprise
@@ -76,8 +74,6 @@
               lbl: IPAM
               url: >-
                 https://ipam.corp-apps.com
-        - name: Virtualization
-          rows:
             - !Link
               ico: <i class="fa-solid fa-cubes-stacked"></i>
               lbl: OpenStack Dashboard LR
