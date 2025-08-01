@@ -114,7 +114,7 @@
             - !Link
               ico: <i class="fa-brands fa-twitter"></i>
               lbl: Twitter
-              url: https://x.com/
+              url: https://twitter.com/
             - !Link
               ico: <i class="fa-brands fa-linkedin"></i>
               lbl: Linkedin
@@ -165,10 +165,6 @@
               ico: <i class="fa-solid fa-magnet"></i>
               lbl: TPB
               url: https://thepiratebay.org/search.php?q=category:207
-            - !Link
-              ico: <i class="fa-solid fa-magnet"></i>
-              lbl: The Hidden Bay
-              url: https://thehiddenbay.com/top/207
             - !Link
               ico: <i class="fa-solid fa-magnet"></i>
               lbl: EZTV
