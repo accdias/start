@@ -145,12 +145,12 @@
               ico: <i class="fa-solid fa-cart-shopping"></i>
               lbl: Temu
               url: https://temu.com
-            - !Link
-              ico: <i class="fa-solid fa-cart-shopping"></i>
-              lbl: Ali Express
-              url: https://aliexpress.com
         - name: News
           rows:
+            - !Link
+              ico: <i class="fa-solid fa-newspaper"></i>
+              lbl: UOL Notícias
+              url: https://noticias.uol.com.br/
             - !Link
               ico: <i class="fa-solid fa-newspaper"></i>
               lbl: G1
