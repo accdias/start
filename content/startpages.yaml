@@ -205,6 +205,14 @@
               lbl: USD to BRL 5 days
               url: https://www.google.com/finance/quote/USD-BRL?window=5D
             - !Link
+              ico: <i class="fa-brands fa-youtube"></i>
+              lbl: YouTube
+              url: https://youtube.com/
+            - !Link
+              ico: <i class="fa-brands fa-youtube"></i>
+              lbl: YT Music
+              url: https://music.youtube.com/
+            - !Link
               ico: <i class="fa-solid fa-envelope"></i>
               lbl: Mail
               url: https://gmail.com
@@ -224,14 +232,6 @@
               ico: <i class="fa-brands fa-google-drive"></i>
               lbl: Drive
               url: https://drive.google.com/drive/u/0/my-drive
-            - !Link
-              ico: <i class="fa-brands fa-youtube"></i>
-              lbl: YouTube
-              url: https://youtube.com/
-            - !Link
-              ico: <i class="fa-brands fa-youtube"></i>
-              lbl: YT Music
-              url: https://music.youtube.com/
             - !Link
               ico: <i class="fa-solid fa-magnifying-glass"></i>
               lbl: Search
