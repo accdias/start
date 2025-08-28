@@ -184,6 +184,16 @@
               ico: <i class="fa-solid fa-robot"></i>
               lbl: BTT Chests
               url: https://logs.tbguide.info/counter/K20/index.php
+        - name: AI
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
+              lbl: Grok
+              url: https://grok.com/
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
+              lbl: ChatGPT
+              url: https://chat.openai.com/
         - name: Google
           rows:
             - !Link
@@ -222,16 +232,6 @@
               ico: <i class="fa-solid fa-magnifying-glass"></i>
               lbl: Search
               url: https://google.com/
-        - name: AI
-          rows:
-            - !Link
-              ico: <i class="fa-solid fa-robot"></i>
-              lbl: ChatGPT
-              url: https://chat.openai.com/
-            - !Link
-              ico: <i class="fa-solid fa-robot"></i>
-              lbl: Grok
-              url: https://x.com/i/grok
         - name: Search Engines
           rows:
             - !Link
