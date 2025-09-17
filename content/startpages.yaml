@@ -108,6 +108,33 @@
               lbl: vCenter LR
               url: >-
                 https://vcenter.lr.internal/ui
+        - name: Work StrongView
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: Selligent Support
+              url: >-
+                https://support.selligent.com/
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: StrongMail LR
+              url: >-
+                https://strongview.lr.corp-apps.com:9443
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: Message Studio LR
+              url: >-
+                https://strongview.lr.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: StrongMail BEL2 
+              url: >-
+                https://strongview-2-prod.corp-apps.com:9443
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: Message Studio BEL2
+              url: >-
+                https://strongview-2-prod.corp-apps.com
     - categories:
         - name: Social
           rows:
