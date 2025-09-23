@@ -116,22 +116,22 @@
               url: >-
                 https://support.selligent.com/
             - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              ico: <i class="fa-solid fa-envelopes-bulk"></i>
               lbl: StrongMail LR
               url: >-
-                https://strongview.lr.corp-apps.com:9443
+                https://strongview-1.lr.corp-apps.com:9443
             - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              ico: <i class="fa-solid fa-envelopes-bulk"></i>
               lbl: Message Studio LR
               url: >-
-                https://strongview.lr.corp-apps.com
+                https://strongview-1.lr.corp-apps.com
             - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              ico: <i class="fa-solid fa-envelopes-bulk"></i>
               lbl: StrongMail BEL2 
               url: >-
                 https://strongview-2-prod.corp-apps.com:9443
             - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              ico: <i class="fa-solid fa-envelopes-bulk"></i>
               lbl: Message Studio BEL2
               url: >-
                 https://strongview-2-prod.corp-apps.com
