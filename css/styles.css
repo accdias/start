@@ -1,18 +1,18 @@
 @import "https://fonts.googleapis.com/css2?family=Ubuntu";
-/* Materia by Defman21 */
+/* Railscasts by Ryan Bates (http://railscasts.com) */
 html, body {
   font-family: "Ubuntu";
-  background-color: #263238;
-  color: #C9CCD3;
+  background-color: #2b2b2b;
+  color: #d4cfc9;
 }
 
 a {
   text-decoration: none;
-  color: #C9CCD3;
+  color: #d4cfc9;
 }
 
-h2 {
-  color: #89DDFF;
+h2, h3 {
+  color: #6d9cbe;
 }
 
 body {
@@ -37,7 +37,7 @@ body {
   grid-template-columns: 30px auto;
 }
 .category .rows .separator {
-  border-top: 1px solid #37474F;
+  border-top: 1px solid #3a4055;
   margin-top: 8px;
   margin-bottom: 8px;
   grid-column: 1/span 2;
