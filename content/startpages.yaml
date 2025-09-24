@@ -108,6 +108,11 @@
               lbl: vCenter LR
               url: >-
                 https://vcenter.lr.internal/ui
+            - !Link
+              ico: <i class="fa-solid fa-server"></i>
+              lbl: vCenter TDR
+              url: >-
+                https://vcenter-corp.tdr.internal/ui
         - name: Work StrongView
           rows:
             - !Link
