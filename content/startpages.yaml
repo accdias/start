@@ -2,7 +2,7 @@
 - name: index
   columns:
     - categories:
-        - name: Work Communication
+        - name: Communication
           rows:
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
@@ -34,7 +34,7 @@
               lbl: On-call Extension
               url: >-
                 https://rucucmpub.ru-corp.robo.ru.com/ucmuser/main
-        - name: Work Tools
+        - name: Tools
           rows:
             - !Link
               ico: <i class="fa-brands fa-github"></i>
@@ -76,6 +76,11 @@
               lbl: IPAM
               url: >-
                 https://ipam.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-d"></i>
+              lbl: Internal DNS
+              url: >-
+                https://dns-tools.bel2.internal
         - name: Work Virtualization
           rows:
             - !Link
