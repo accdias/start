@@ -34,6 +34,11 @@
               lbl: On-call Extension
               url: >-
                 https://rucucmpub.ru-corp.robo.ru.com/ucmuser/main
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: EDGE Main Wiki Page
+              url: >-
+                https://wiki.corp-apps.com/x/wRLbH
         - name: Tools
           rows:
             - !Link
