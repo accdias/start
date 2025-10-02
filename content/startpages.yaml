@@ -149,12 +149,12 @@
               ico: <i class="fa-solid fa-envelopes-bulk"></i>
               lbl: StrongMail BEL2 
               url: >-
-                https://strongview-2-prod.corp-apps.com:9443
+                https://strongview-2-prod.bel2.corp-apps.com:9443
             - !Link
               ico: <i class="fa-solid fa-envelopes-bulk"></i>
               lbl: Message Studio BEL2
               url: >-
-                https://strongview-2-prod.corp-apps.com
+                https://strongview-2-prod.bel2.corp-apps.com
     - categories:
         - name: Social
           rows:
