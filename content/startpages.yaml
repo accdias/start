@@ -2,160 +2,6 @@
 - name: index
   columns:
     - categories:
-        - name: Communication
-          rows:
-            - !Link
-              ico: <i class="fa-solid fa-phone"></i>
-              lbl: Raul's bridge
-              url: >-
-                https://join.corp-apps.com/en-US/meeting/143926/?secret=BILOSIvIusQYq_vYorDkuQ
-            - !Link
-              ico: <i class="fa-solid fa-phone"></i>
-              lbl: Marius' bridge
-              url: >-
-                https://join.corp-it.net/en-US/meeting/143957/?secret=ccXNm_Pioszr812b4XjiEA
-            - !Link
-              ico: <i class="fa-solid fa-phone"></i>
-              lbl: Pau's bridge
-              url: >-
-                https://join.corp-serv.net/en-US/meeting/143314?secret=nYgxDp2aZetcxGKBpGoLWA
-            - !Link
-              ico: <i class="fa-solid fa-phone"></i>
-              lbl: Web Bridge 1 - Internal
-              url: >-
-                https://webbridge1.corp-apps.com
-            - !Link
-              ico: <i class="fa-solid fa-phone"></i>
-              lbl: Web Bridge 2 - External
-              url: >-
-                https://webbdrige2.corp-apps.com
-            - !Link
-              ico: <i class="fa-solid fa-phone"></i>
-              lbl: Web Bridge 3 - Internal
-              url: >-
-                https://webbridge3.corp-apps.com
-            - !Link
-              ico: <i class="fa-solid fa-phone"></i>
-              lbl: On-call Extension
-              url: >-
-                https://rucucmpub.ru-corp.robo.ru.com/ucmuser/main
-            - !Link
-              ico: <i class="fa-solid fa-phone"></i>
-              lbl: EDGE Main Wiki Page
-              url: >-
-                https://wiki.corp-apps.com/x/wRLbH
-        - name: Tools
-          rows:
-            - !Link
-              ico: <i class="fa-brands fa-github"></i>
-              lbl: GitHub Enterprise
-              url: >-
-                https://git.internal.ru.com/
-            - !Link
-              ico: <i class="fa-solid fa-lock"></i>
-              lbl: BigHaiku
-              url: >-
-                https://bighaiku-api.techcorpapps.com/
-            - !Link
-              ico: <i class="fa-solid fa-vault"></i>
-              lbl: Vault
-              url: >-
-                https://vault.corp-apps.ru.com/ui/vault/secrets
-            - !Link
-              ico: <i class="fa-solid fa-vault"></i>
-              lbl: PMP
-              url: >-
-                https://password.corp-apps.com/
-            - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
-              lbl: Rudder
-              url: >-
-                https://lifecycle.vpsmgmt.tools/
-            - !Link
-              ico: <i class="fa-brands fa-jira"></i>
-              lbl: Jira
-              url: >-
-                https://jiraops.corp-apps.com
-            - !Link
-              ico: <i class="fa-brands fa-confluence"></i>
-              lbl: Confluence
-              url: >-
-                https://wiki.corp-apps.com
-            - !Link
-              ico: <i class="fa-solid fa-network-wired"></i>
-              lbl: IPAM
-              url: >-
-                https://ipam.corp-apps.com
-            - !Link
-              ico: <i class="fa-solid fa-d"></i>
-              lbl: Internal DNS
-              url: >-
-                https://dns-tools.bel2.internal
-        - name: Work Virtualization
-          rows:
-            - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
-              lbl: OpenStack Dashboard LR
-              url: >-
-                https://dashboard.canonical.lr.corp-apps.com/
-            - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
-              lbl: OpenStack Dashboard LAT
-              url: >-
-                https://openstack.lat.corp-apps.com/
-            - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
-              lbl: OpenStack Dashboard BEL2
-              url: >-
-                https://openstack.bel2.corp-apps.com/
-            - !Link
-              ico: <i class="fa-solid fa-server"></i>
-              lbl: vCenter LAT
-              url: >-
-                https://vcenter-corp.lat.internal/ui
-            - !Link
-              ico: <i class="fa-solid fa-server"></i>
-              lbl: vCenter BEL2
-              url: >-
-                https://vcenter.bel2.internal/ui
-            - !Link
-              ico: <i class="fa-solid fa-server"></i>
-              lbl: vCenter LR
-              url: >-
-                https://vcenter.lr.internal/ui
-            - !Link
-              ico: <i class="fa-solid fa-server"></i>
-              lbl: vCenter TDR
-              url: >-
-                https://vcenter-corp.tdr.internal/ui
-        - name: Work StrongView
-          rows:
-            - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
-              lbl: Selligent Support
-              url: >-
-                https://support.selligent.com/
-            - !Link
-              ico: <i class="fa-solid fa-envelopes-bulk"></i>
-              lbl: StrongMail LR
-              url: >-
-                https://strongview-1.lr.corp-apps.com:9443
-            - !Link
-              ico: <i class="fa-solid fa-envelopes-bulk"></i>
-              lbl: Message Studio LR
-              url: >-
-                https://strongview-1.lr.corp-apps.com
-            - !Link
-              ico: <i class="fa-solid fa-envelopes-bulk"></i>
-              lbl: StrongMail BEL2 
-              url: >-
-                https://strongview-2-prod.bel2.corp-apps.com:9443
-            - !Link
-              ico: <i class="fa-solid fa-envelopes-bulk"></i>
-              lbl: Message Studio BEL2
-              url: >-
-                https://strongview-2-prod.bel2.corp-apps.com
-    - categories:
         - name: Social
           rows:
             - !Link
@@ -352,3 +198,164 @@
               ico: <i class="fa-brands fa-goodreads-g"></i>
               lbl: Goodreads
               url: https://www.goodreads.com/
+
+- name: work
+  columns:
+    - categories:
+        - name: Communication
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Raul's bridge
+              url: >-
+                https://join.corp-apps.com/en-US/meeting/143926/?secret=BILOSIvIusQYq_vYorDkuQ
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Marius' bridge
+              url: >-
+                https://join.corp-it.net/en-US/meeting/143957/?secret=ccXNm_Pioszr812b4XjiEA
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Pau's bridge
+              url: >-
+                https://join.corp-serv.net/en-US/meeting/143314?secret=nYgxDp2aZetcxGKBpGoLWA
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Web Bridge 1 - Internal
+              url: >-
+                https://webbridge1.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Web Bridge 2 - External
+              url: >-
+                https://webbdrige2.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Web Bridge 3 - Internal
+              url: >-
+                https://webbridge3.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: On-call Extension
+              url: >-
+                https://rucucmpub.ru-corp.robo.ru.com/ucmuser/main
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: EDGE Main Wiki Page
+              url: >-
+                https://wiki.corp-apps.com/x/wRLbH
+    - categories:
+        - name: Tools
+          rows:
+            - !Link
+              ico: <i class="fa-brands fa-github"></i>
+              lbl: GitHub Enterprise
+              url: >-
+                https://git.internal.ru.com/
+            - !Link
+              ico: <i class="fa-solid fa-lock"></i>
+              lbl: BigHaiku
+              url: >-
+                https://bighaiku-api.techcorpapps.com/
+            - !Link
+              ico: <i class="fa-solid fa-vault"></i>
+              lbl: Vault
+              url: >-
+                https://vault.corp-apps.ru.com/ui/vault/secrets
+            - !Link
+              ico: <i class="fa-solid fa-vault"></i>
+              lbl: PMP
+              url: >-
+                https://password.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: Rudder
+              url: >-
+                https://lifecycle.vpsmgmt.tools/
+            - !Link
+              ico: <i class="fa-brands fa-jira"></i>
+              lbl: Jira
+              url: >-
+                https://jiraops.corp-apps.com
+            - !Link
+              ico: <i class="fa-brands fa-confluence"></i>
+              lbl: Confluence
+              url: >-
+                https://wiki.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-network-wired"></i>
+              lbl: IPAM
+              url: >-
+                https://ipam.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-d"></i>
+              lbl: Internal DNS
+              url: >-
+                https://dns-tools.bel2.internal
+    - categories:
+        - name: Virtualization
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: OpenStack Dashboard LR
+              url: >-
+                https://dashboard.canonical.lr.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: OpenStack Dashboard LAT
+              url: >-
+                https://openstack.lat.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: OpenStack Dashboard BEL2
+              url: >-
+                https://openstack.bel2.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-server"></i>
+              lbl: vCenter LAT
+              url: >-
+                https://vcenter-corp.lat.internal/ui
+            - !Link
+              ico: <i class="fa-solid fa-server"></i>
+              lbl: vCenter BEL2
+              url: >-
+                https://vcenter.bel2.internal/ui
+            - !Link
+              ico: <i class="fa-solid fa-server"></i>
+              lbl: vCenter LR
+              url: >-
+                https://vcenter.lr.internal/ui
+            - !Link
+              ico: <i class="fa-solid fa-server"></i>
+              lbl: vCenter TDR
+              url: >-
+                https://vcenter-corp.tdr.internal/ui
+    - categories:
+        - name: StrongView
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: Selligent Support
+              url: >-
+                https://support.selligent.com/
+            - !Link
+              ico: <i class="fa-solid fa-envelopes-bulk"></i>
+              lbl: StrongMail LR
+              url: >-
+                https://strongview-1.lr.corp-apps.com:9443
+            - !Link
+              ico: <i class="fa-solid fa-envelopes-bulk"></i>
+              lbl: Message Studio LR
+              url: >-
+                https://strongview-1.lr.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-envelopes-bulk"></i>
+              lbl: StrongMail BEL2 
+              url: >-
+                https://strongview-2-prod.bel2.corp-apps.com:9443
+            - !Link
+              ico: <i class="fa-solid fa-envelopes-bulk"></i>
+              lbl: Message Studio BEL2
+              url: >-
+                https://strongview-2-prod.bel2.corp-apps.com
+
