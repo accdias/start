@@ -293,7 +293,7 @@
               url: >-
                 https://dns-tools.bel2.internal
             - !Link
-              ico: <i class="fa-solid fa-catalog"></i>
+              ico: <i class="fa-solid fa-hand-holding"></i>
               lbl: Services Catalog
               url: >-
                https://technology-service-catalog.corp-apps.com/ 
