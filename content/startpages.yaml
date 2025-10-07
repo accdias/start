@@ -83,6 +83,10 @@
               url: https://kaiculator.kaikaiju.com/ 
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
+              lbl: TotalBattle Gifts
+              url: https://tbgift.pages.dev/
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
               lbl: BTT Chests
               url: https://logs.tbguide.info/counter/K20/index.php
         - name: AI
