@@ -212,12 +212,17 @@
               ico: <i class="fa-solid fa-phone"></i>
               lbl: Raul's bridge
               url: >-
-                https://join.corp-apps.com/en-US/meeting/143926/?secret=BILOSIvIusQYq_vYorDkuQ
+                https://join.corp-apps.com/en-US/meeting/143926?secret=BILOSIvIusQYq_vYorDkuQ
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Raul's bridge (Direct Link)
+              url: >-
+                https://join.corp-it.net/en-US/meeting/143926?secret=BILOSIvIusQYq_vYorDkuQ
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
               lbl: Marius' bridge
               url: >-
-                https://join.corp-it.net/en-US/meeting/143957/?secret=ccXNm_Pioszr812b4XjiEA
+                https://join.corp-it.net/en-US/meeting/143957?secret=ccXNm_Pioszr812b4XjiEA
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
               lbl: Pau's bridge
