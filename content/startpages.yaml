@@ -305,7 +305,7 @@
               ico: <i class="fa-solid fa-hand-holding"></i>
               lbl: Services Catalog
               url: >-
-               https://technology-service-catalog.corp-apps.com/ 
+               https://technology-service-catalog.corp-apps.com/
     - categories:
         - name: Virtualization
           rows:
@@ -364,7 +364,7 @@
                 https://strongview-1.lr.corp-apps.com
             - !Link
               ico: <i class="fa-solid fa-envelopes-bulk"></i>
-              lbl: StrongMail BEL2 
+              lbl: StrongMail BEL2
               url: >-
                 https://strongview-2-prod.bel2.corp-apps.com:9443
             - !Link
@@ -372,4 +372,11 @@
               lbl: Message Studio BEL2
               url: >-
                 https://strongview-2-prod.bel2.corp-apps.com
+        - name: Observability
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-magnifying-glass"></i>
+              lbl: Elastic Search
+              url: >-
+                https://kibana-edge-apm-1.lrpc.internal:5601
 
