@@ -79,8 +79,12 @@
               url: https://totalbattle.com/en
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
+              lbl: BAD Chests
+              url: https://chesttracker.com/counts/2XBPQ5VTBG
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
               lbl: TotalBattle Calculator
-              url: https://kaiculator.kaikaiju.com/ 
+              url: https://kaiculator.kaikaiju.com/
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
               lbl: TotalBattle Gifts
@@ -379,4 +383,3 @@
               lbl: Elastic Search
               url: >-
                 https://kibana-edge-apm-1.lrpc.internal:5601
-
