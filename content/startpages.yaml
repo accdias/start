@@ -5,9 +5,9 @@
         - name: Social
           rows:
             - !Link
-              ico: <i class="fa-brands fa-twitter"></i>
-              lbl: Twitter
-              url: https://twitter.com/
+              ico: <i class="fa-brands fa-x-twitter"></i>
+              lbl: X
+              url: https://x.com/
             - !Link
               ico: <i class="fa-brands fa-linkedin"></i>
               lbl: Linkedin
@@ -96,7 +96,7 @@
         - name: AI
           rows:
             - !Link
-              ico: <i class="fa-solid fa-robot"></i>
+              ico: <i class="fa-solid fa-x-twitter"></i>
               lbl: Grok
               url: https://grok.com/
             - !Link
@@ -155,7 +155,7 @@
         - name: Knowledge
           rows:
             - !Link
-              ico: <i class="fa-brands fa-wikipedia-w"></i>
+              ico: <i class="fa-brands fa-x-twitter"></i>
               lbl: Grokipedia
               url: https://grokipedia.com/
             - !Link
