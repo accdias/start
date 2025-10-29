@@ -156,6 +156,10 @@
           rows:
             - !Link
               ico: <i class="fa-brands fa-wikipedia-w"></i>
+              lbl: Grokipedia
+              url: https://grokipedia.com/
+            - !Link
+              ico: <i class="fa-brands fa-wikipedia-w"></i>
               lbl: Wikipedia
               url: https://en.wikipedia.org/wiki/Main_Page
             - !Link
