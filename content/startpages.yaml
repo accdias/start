@@ -96,7 +96,7 @@
         - name: AI
           rows:
             - !Link
-              ico: <i class="fa-solid fa-x-twitter"></i>
+              ico: <i class="fa-brands fa-x-twitter"></i>
               lbl: Grok
               url: https://grok.com/
             - !Link
