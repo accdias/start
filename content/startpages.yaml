@@ -314,6 +314,11 @@
               lbl: Services Catalog
               url: >-
                https://technology-service-catalog.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
+              lbl: AWX Ansible LR
+              url: >-
+               https://awx.lr.corp-apps.com/
     - categories:
         - name: Virtualization
           rows:
