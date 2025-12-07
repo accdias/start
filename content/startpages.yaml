@@ -15,13 +15,17 @@
         - name: Marketplaces
           rows:
             - !Link
+              ico: <i class="fa-solid fa-store"></i>
+              lbl: Mercado Livre
+              url: https://mercadolivre.com.br
+            - !Link
               ico: <i class="fa-solid fa-cart-shopping"></i>
               lbl: Ali Express
               url: https://aliexpress.com
             - !Link
               ico: <i class="fa-solid fa-store"></i>
-              lbl: Mercado Livre
-              url: https://mercadolivre.com.br
+              lbl: Shopee
+              url: https://shopee.com.br
             - !Link
               ico: <i class="fa-brands fa-amazon"></i>
               lbl: Amazon BR
