@@ -23,21 +23,21 @@
               lbl: Ali Express
               url: https://aliexpress.com
             - !Link
-              ico: <i class="fa-solid fa-store"></i>
-              lbl: Shopee
-              url: https://shopee.com.br
-            - !Link
               ico: <i class="fa-brands fa-amazon"></i>
               lbl: Amazon BR
               url: https://amazon.com.br
+            - !Link
+              ico: <i class="fa-brands fa-amazon"></i>
+              lbl: Amazon US
+              url: https://amazon.com
             - !Link
               ico: <i class="fa-brands fa-ebay"></i>
               lbl: eBay
               url: https://ebay.com
             - !Link
-              ico: <i class="fa-brands fa-amazon"></i>
-              lbl: Amazon US
-              url: https://amazon.com
+              ico: <i class="fa-solid fa-store"></i>
+              lbl: Shopee
+              url: https://shopee.com.br
             - !Link
               ico: <i class="fa-solid fa-cart-shopping"></i>
               lbl: Temu
