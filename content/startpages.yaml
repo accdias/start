@@ -227,19 +227,24 @@
                 https://join.corp-apps.com/en-US/meeting/143926?secret=BILOSIvIusQYq_vYorDkuQ
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
-              lbl: Raul's bridge (Direct Link)
-              url: >-
-                https://join.corp-it.net/en-US/meeting/143926?secret=BILOSIvIusQYq_vYorDkuQ
-            - !Link
-              ico: <i class="fa-solid fa-phone"></i>
               lbl: Marius' bridge
               url: >-
-                https://join.corp-it.net/en-US/meeting/143957?secret=ccXNm_Pioszr812b4XjiEA
+                https://join.corp-apps.com/en-US/meeting/143957?secret=ccXNm_Pioszr812b4XjiEA
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
               lbl: Pau's bridge
               url: >-
-                https://join.corp-serv.net/en-US/meeting/143314?secret=nYgxDp2aZetcxGKBpGoLWA
+                https://join.corp-apps.com/en-US/meeting/143314?secret=nYgxDp2aZetcxGKBpGoLWA
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Tony's bridge
+              url: >-
+                https://join.corp-apps.com/en-US/meeting/144926?secret=QaVNTvpmpeTQuTT2glbCvQ
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: David's bridge
+              url: >-
+                https://join.corp-apps.com/en-US/meeting/2311?secret=OpNPeWSM9S_.UHs45CPZVg
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
               lbl: Web Bridge 1 - Internal
