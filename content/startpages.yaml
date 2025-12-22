@@ -23,6 +23,10 @@
               lbl: Ali Express
               url: https://aliexpress.com
             - !Link
+              ico: <i class="fa-solid fa-cart-shopping"></i>
+              lbl: OLX
+              url: https://olx.com.br
+            - !Link
               ico: <i class="fa-brands fa-amazon"></i>
               lbl: Amazon BR
               url: https://amazon.com.br
