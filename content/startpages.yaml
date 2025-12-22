@@ -285,7 +285,12 @@
                 https://bighaiku-api.techcorpapps.com/
             - !Link
               ico: <i class="fa-solid fa-vault"></i>
-              lbl: Vault
+              lbl: Vault BEL2 🆕
+              url: >-
+                https://vault.bel2.corp-apps.com/ui/vault/secrets
+            - !Link
+              ico: <i class="fa-solid fa-vault"></i>
+              lbl: Vault (Old)
               url: >-
                 https://vault.corp-apps.ru.com/ui/vault/secrets
             - !Link
