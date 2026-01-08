@@ -361,6 +361,11 @@
               url: >-
                 https://openstack.bel2.corp-apps.com/
             - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: OpenStack Dashboard KAM
+              url: >-
+                https://cloud.private-1.kam.onosendai.cloud
+            - !Link
               ico: <i class="fa-solid fa-server"></i>
               lbl: vCenter LAT
               url: >-
