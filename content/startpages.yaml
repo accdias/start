@@ -329,6 +329,11 @@
                 https://ipam.corp-apps.com
             - !Link
               ico: <i class="fa-solid fa-d"></i>
+              lbl: PowerDNS Admin
+              url: >-
+                https://10.59.78.47:9191/admin/setting/authentication#ldap
+            - !Link
+              ico: <i class="fa-solid fa-d"></i>
               lbl: Internal DNS
               url: >-
                 https://dns-tools.bel2.internal
