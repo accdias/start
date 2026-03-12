@@ -251,6 +251,11 @@
                 https://join.corp-apps.com/en-US/meeting/2311?secret=OpNPeWSM9S_.UHs45CPZVg
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
+              lbl: Carol's bridge
+              url: >-
+                https://join.corp-apps.com/en-US/meeting/143231?secret=pkVf8gvFhWY_XEWMMptAww
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
               lbl: Web Bridge 1 - Internal
               url: >-
                 https://webbridge1.corp-apps.com
