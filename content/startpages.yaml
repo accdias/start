@@ -279,6 +279,11 @@
               lbl: EDGE Main Wiki Page
               url: >-
                 https://wiki.corp-apps.com/x/wRLbH
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: CITOPS/GDS
+              url: >-
+                https://jiraops.corp-apps.com/servicedesk/customer/portal/108
     - categories:
         - name: Tools
           rows:
