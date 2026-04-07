@@ -1,3 +1,4 @@
+--
 name: deploy-github-pages
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
@@ -6,10 +7,12 @@ permissions:
   pages: write
   id-token: write
 
-on:
+"on":
   push:
     branches:
       - main
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 jobs:
   generate:
     runs-on: ubuntu-latest
