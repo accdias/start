@@ -15,7 +15,7 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: node24
     steps:
       - name: Checkout
         uses: actions/checkout@v3
