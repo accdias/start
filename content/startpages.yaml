@@ -1,5 +1,5 @@
 ---
-- ame: index
+- name: index
   columns:
     - categories:
         - name: Social
@@ -369,26 +369,6 @@
         - name: Virtualization
           rows:
             - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
-              lbl: OpenStack Dashboard LR
-              url: >-
-                https://dashboard.canonical.lr.corp-apps.com/
-            - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
-              lbl: OpenStack Dashboard LAT
-              url: >-
-                https://openstack.lat.corp-apps.com/
-            - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
-              lbl: OpenStack Dashboard BEL2
-              url: >-
-                https://openstack.bel2.corp-apps.com/
-            - !Link
-              ico: <i class="fa-solid fa-cubes-stacked"></i>
-              lbl: OpenStack Dashboard KAM
-              url: >-
-                https://cloud.private-1.kam.onosendai.cloud
-            - !Link
               ico: <i class="fa-solid fa-server"></i>
               lbl: vCenter LAT
               url: >-
@@ -408,7 +388,29 @@
               lbl: vCenter TDR
               url: >-
                 https://vcenter-corp.tdr.internal/ui
-        - name: Canonical
+        - name: OpenStack
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: OpenStack Dashboard LR
+              url: >-
+                https://dashboard.canonical.lr.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: OpenStack Dashboard LAT
+              url: >-
+                https://openstack.lat.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: OpenStack Dashboard BEL2
+              url: >-
+                https://openstack.bel2.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-cubes-stacked"></i>
+              lbl: OpenStack Dashboard KAM
+              url: >-
+                https://cloud.private-1.kam.onosendai.cloud
+        - name: Landscape
           rows:
             - !Link
               ico: <i class="fa-solid fa-server"></i>
