@@ -95,6 +95,10 @@
               url: https://robur-k298.replit.app/
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
+              lbl: TotalCalculator
+              url: https://totalcalculator.org/epic.php
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
               lbl: TotalBattle Calculator
               url: https://kaiculator.kaikaiju.com/
             - !Link
