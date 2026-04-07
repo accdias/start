@@ -91,6 +91,10 @@
               url: https://chesttracker.com/counts/2XBPQ5VTBG
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
+              lbl: TotalStack Calculator
+              url: https://robur-k298.replit.app/
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
               lbl: TotalBattle Calculator
               url: https://kaiculator.kaikaiju.com/
             - !Link
