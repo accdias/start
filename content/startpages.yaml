@@ -408,6 +408,8 @@
               lbl: vCenter TDR
               url: >-
                 https://vcenter-corp.tdr.internal/ui
+        - name: Canonical
+          rows:
             - !Link
               ico: <i class="fa-solid fa-server"></i>
               lbl: Landscape BEL2
@@ -423,7 +425,6 @@
               lbl: Landscape LR
               url: >-
                 https://canonical-landscape.lr.corp-apps.com/
-
     - categories:
         - name: StrongView
           rows:
