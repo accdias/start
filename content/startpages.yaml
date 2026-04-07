@@ -1,5 +1,5 @@
 ---
-- name: index
+- ame: index
   columns:
     - categories:
         - name: Social
@@ -408,6 +408,21 @@
               lbl: vCenter TDR
               url: >-
                 https://vcenter-corp.tdr.internal/ui
+            - !Link
+              ico: <i class="fa-solid fa-server"></i>
+              lbl: Landscape BEL2
+              url: >-
+                https://canonical-landscape.bel2.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-server"></i>
+              lbl: Landscape KAM
+              url: >-
+                https://canonical-landscape.kam.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-server"></i>
+              lbl: Landscape LR
+              url: >-
+                https://canonical-landscape.lr.corp-apps.com/
     - categories:
         - name: StrongView
           rows:
