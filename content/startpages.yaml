@@ -197,6 +197,10 @@
               ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: Reddit
               url: https://www.reddit.com/
+            - !Link
+              ico: <i class="fa-brands fa-slashdot"></i>
+              lbl: Slashdot
+              url: https://slashdot.com/
     - categories:
         - name: Music
           rows:
