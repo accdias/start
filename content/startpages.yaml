@@ -79,6 +79,16 @@
               lbl: EZTV
               url: https://eztvx.to/
     - categories:
+        - name: Typing
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-keyboard"></i>
+              lbl: keybr
+              url: https://keybr.com/
+            - !Link
+              ico: <i class="fa-solid fa-keyboard"></i>
+              lbl: MonkeyType
+              url: https://monkeytype.com/
         - name: Gaming
           rows:
             - !Link
