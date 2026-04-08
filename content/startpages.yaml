@@ -198,7 +198,7 @@
               lbl: Reddit
               url: https://www.reddit.com/
             - !Link
-              ico: <i class="fa-brands fa-slashdot"></i>
+              ico: <i class="fa-solid fa-rss"></i>
               lbl: Slashdot
               url: https://slashdot.com/
     - categories:
