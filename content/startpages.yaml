@@ -365,6 +365,11 @@
               lbl: AWX Ansible LR
               url: >-
                https://awx.lr.corp-apps.com/
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
+              lbl: NS1 KAM
+              url: >-
+               http://ns1.k1pc.internal:9191/login
     - categories:
         - name: Virtualization
           rows:
