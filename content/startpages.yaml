@@ -194,10 +194,6 @@
         - name: Aggregators
           rows:
             - !Link
-              ico: <i class="fa-brands fa-hacker-news"></i>
-              lbl: Hacker News
-              url: https://news.ycombinator.com/
-            - !Link
               ico: <i class="fa-brands fa-reddit-alien"></i>
               lbl: Reddit
               url: https://www.reddit.com/
