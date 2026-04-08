@@ -123,6 +123,10 @@
               url: https://grok.com/
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
+              lbl: Claude
+              url: https://claude.ai/
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
               lbl: ChatGPT
               url: https://chat.openai.com/
         - name: Google
