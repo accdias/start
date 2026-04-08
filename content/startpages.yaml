@@ -369,7 +369,17 @@
               ico: <i class="fa-solid fa-robot"></i>
               lbl: NS1 KAM
               url: >-
-               http://ns1.k1pc.internal:9191/login
+               https://ns1.k1pc.internal:9191/login
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
+              lbl: NS1 B2PC
+              url: >-
+               https://ns1.b2pc.bit2host.com:9191/login
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
+              lbl: NS1 LRPC
+              url: >-
+               https://ns1.lrpc.internal:9191/login
     - categories:
         - name: Virtualization
           rows:
