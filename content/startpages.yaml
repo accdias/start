@@ -167,16 +167,6 @@
               ico: <i class="fa-solid fa-magnifying-glass"></i>
               lbl: Search
               url: https://google.com/
-        - name: Search Engines
-          rows:
-            - !Link
-              ico: <i class="fa-solid fa-magnifying-glass"></i>
-              lbl: DuckDuckGo
-              url: https://duckduckgo.com/
-            - !Link
-              ico: <i class="fa-solid fa-magnifying-glass"></i>
-              lbl: Google Search
-              url: https://www.google.com/
     - categories:
         - name: Knowledge
           rows:
