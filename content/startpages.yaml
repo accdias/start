@@ -279,6 +279,11 @@
               lbl: CITOPS/GDS
               url: >-
                 https://jiraops.corp-apps.com/servicedesk/customer/portal/108
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: RUEX Password Reset
+              url: >-
+                https://passwordchange.ru-corp.robo.ru.com/RDWeb/Pages/en-US/password.aspx
     - categories:
         - name: Tools
           rows:
