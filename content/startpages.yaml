@@ -323,6 +323,11 @@
               url: >-
                 https://lifecycle.vpsmgmt.tools/
             - !Link
+              ico: <i class="fa-brands fa-boxes-stacked"></i>
+              lbl: Wazuh
+              url: >-
+                https://wazuh.lr.internal/
+            - !Link
               ico: <i class="fa-brands fa-jira"></i>
               lbl: Jira
               url: >-
