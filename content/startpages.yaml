@@ -179,7 +179,7 @@
               lbl: Grokipedia
               url: https://grokipedia.com/
             - !Link
-              ico: <i class="fa-solid fa-books"></i>
+              ico: <i class="fa-solid fa-book"></i>
               lbl: Dictionary
               url: https://dictionary.com/
             - !Link
