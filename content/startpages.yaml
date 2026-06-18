@@ -144,10 +144,6 @@
               lbl: YouTube
               url: https://youtube.com/
             - !Link
-              ico: <i class="fa-brands fa-youtube"></i>
-              lbl: YT Music
-              url: https://music.youtube.com/
-            - !Link
               ico: <i class="fa-solid fa-envelope"></i>
               lbl: Mail
               url: https://gmail.com
@@ -212,6 +208,10 @@
     - categories:
         - name: Music
           rows:
+            - !Link
+              ico: <i class="fa-brands fa-youtube"></i>
+              lbl: YT Music
+              url: https://music.youtube.com/
             - !Link
               ico: <i class="fa-brands fa-spotify"></i>
               lbl: Spotify
