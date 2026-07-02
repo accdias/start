@@ -101,10 +101,6 @@
               url: https://chesttracker.com/counts/2XBPQ5VTBG
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
-              lbl: Chests ThunderClouds
-              url: https://chesttracker.com/counts/8GP3UZVY29
-            - !Link
-              ico: <i class="fa-solid fa-robot"></i>
               lbl: TotalStack Calculator
               url: https://robur-k298.replit.app/
             - !Link
