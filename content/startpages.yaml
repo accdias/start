@@ -10,7 +10,7 @@
               url: https://x.com/
             - !Link
               ico: <i class="fa-brands fa-bluesky"></i>
-              lbl: X
+              lbl: BlueSky
               url: https://bsky.app/
             - !Link
               ico: <i class="fa-brands fa-linkedin"></i>
