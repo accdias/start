@@ -9,6 +9,10 @@
               lbl: X
               url: https://x.com/
             - !Link
+              ico: <i class="fa-brands fa-bluesky"></i>
+              lbl: X
+              url: https://bsky.app/
+            - !Link
               ico: <i class="fa-brands fa-linkedin"></i>
               lbl: Linkedin
               url: https://www.linkedin.com
