@@ -16,40 +16,6 @@
               ico: <i class="fa-brands fa-linkedin"></i>
               lbl: Linkedin
               url: https://www.linkedin.com
-        - name: Marketplaces
-          rows:
-            - !Link
-              ico: <i class="fa-solid fa-store"></i>
-              lbl: Mercado Livre
-              url: https://mercadolivre.com.br
-            - !Link
-              ico: <i class="fa-solid fa-cart-shopping"></i>
-              lbl: Ali Express
-              url: https://aliexpress.com
-            - !Link
-              ico: <i class="fa-solid fa-cart-shopping"></i>
-              lbl: OLX
-              url: https://olx.com.br
-            - !Link
-              ico: <i class="fa-brands fa-amazon"></i>
-              lbl: Amazon BR
-              url: https://amazon.com.br
-            - !Link
-              ico: <i class="fa-brands fa-amazon"></i>
-              lbl: Amazon US
-              url: https://amazon.com
-            - !Link
-              ico: <i class="fa-brands fa-ebay"></i>
-              lbl: eBay
-              url: https://ebay.com
-            - !Link
-              ico: <i class="fa-solid fa-store"></i>
-              lbl: Shopee
-              url: https://shopee.com.br
-            - !Link
-              ico: <i class="fa-solid fa-cart-shopping"></i>
-              lbl: Temu
-              url: https://temu.com
         - name: News
           rows:
             - !Link
@@ -82,6 +48,25 @@
               ico: <i class="fa-solid fa-magnet"></i>
               lbl: EZTV
               url: https://eztvx.to/
+        - name: Music
+          rows:
+            - !Link
+              ico: <i class="fa-brands fa-youtube"></i>
+              lbl: YT Music
+              url: https://music.youtube.com/
+            - !Link
+              ico: <i class="fa-brands fa-spotify"></i>
+              lbl: Spotify
+              url: https://open.spotify.com/?
+            - !Link
+              ico: <i class="fa-brands fa-mixcloud"></i>
+              lbl: Mixcloud
+              url: https://www.mixcloud.com/
+            - !Link
+              ico: <i class="fa-brands fa-soundcloud"></i>
+              lbl: Soundcloud
+              url: https://soundcloud.com/
+
     - categories:
         - name: Typing
           rows:
@@ -194,6 +179,40 @@
               ico: <i class="fa-brands fa-stack-overflow"></i>
               lbl: Stack Overflow
               url: https://stackoverflow.com/
+        - name: Marketplaces
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-store"></i>
+              lbl: Mercado Livre
+              url: https://mercadolivre.com.br
+            - !Link
+              ico: <i class="fa-solid fa-cart-shopping"></i>
+              lbl: Ali Express
+              url: https://aliexpress.com
+            - !Link
+              ico: <i class="fa-solid fa-cart-shopping"></i>
+              lbl: OLX
+              url: https://olx.com.br
+            - !Link
+              ico: <i class="fa-brands fa-amazon"></i>
+              lbl: Amazon BR
+              url: https://amazon.com.br
+            - !Link
+              ico: <i class="fa-brands fa-amazon"></i>
+              lbl: Amazon US
+              url: https://amazon.com
+            - !Link
+              ico: <i class="fa-brands fa-ebay"></i>
+              lbl: eBay
+              url: https://ebay.com
+            - !Link
+              ico: <i class="fa-solid fa-store"></i>
+              lbl: Shopee
+              url: https://shopee.com.br
+            - !Link
+              ico: <i class="fa-solid fa-cart-shopping"></i>
+              lbl: Temu
+              url: https://temu.com
     - categories:
         - name: Aggregators
           rows:
@@ -206,24 +225,6 @@
               lbl: Slashdot
               url: https://slashdot.com/
     - categories:
-        - name: Music
-          rows:
-            - !Link
-              ico: <i class="fa-brands fa-youtube"></i>
-              lbl: YT Music
-              url: https://music.youtube.com/
-            - !Link
-              ico: <i class="fa-brands fa-spotify"></i>
-              lbl: Spotify
-              url: https://open.spotify.com/?
-            - !Link
-              ico: <i class="fa-brands fa-mixcloud"></i>
-              lbl: Mixcloud
-              url: https://www.mixcloud.com/
-            - !Link
-              ico: <i class="fa-brands fa-soundcloud"></i>
-              lbl: Soundcloud
-              url: https://soundcloud.com/
         - name: Reading
           rows:
             - !Link
