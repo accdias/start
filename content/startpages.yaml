@@ -68,16 +68,6 @@
               url: https://soundcloud.com/
 
     - categories:
-        - name: Typing
-          rows:
-            - !Link
-              ico: <i class="fa-solid fa-keyboard"></i>
-              lbl: keybr
-              url: https://keybr.com/
-            - !Link
-              ico: <i class="fa-solid fa-keyboard"></i>
-              lbl: MonkeyType
-              url: https://monkeytype.com/
         - name: Gaming
           rows:
             - !Link
@@ -214,17 +204,6 @@
               lbl: Temu
               url: https://temu.com
     - categories:
-        - name: Aggregators
-          rows:
-            - !Link
-              ico: <i class="fa-brands fa-reddit-alien"></i>
-              lbl: Reddit
-              url: https://www.reddit.com/
-            - !Link
-              ico: <i class="fa-solid fa-rss"></i>
-              lbl: Slashdot
-              url: https://slashdot.com/
-    - categories:
         - name: Reading
           rows:
             - !Link
@@ -235,6 +214,26 @@
               ico: <i class="fa-brands fa-goodreads-g"></i>
               lbl: Goodreads
               url: https://www.goodreads.com/
+        - name: Aggregators
+          rows:
+            - !Link
+              ico: <i class="fa-brands fa-reddit-alien"></i>
+              lbl: Reddit
+              url: https://www.reddit.com/
+            - !Link
+              ico: <i class="fa-solid fa-rss"></i>
+              lbl: Slashdot
+              url: https://slashdot.com/
+        - name: Typing
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-keyboard"></i>
+              lbl: keybr
+              url: https://keybr.com/
+            - !Link
+              ico: <i class="fa-solid fa-keyboard"></i>
+              lbl: MonkeyType
+              url: https://monkeytype.com/
 
 - name: work
   columns:
