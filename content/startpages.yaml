@@ -14,7 +14,7 @@
               url: https://bsky.app/
             - !Link
               ico: <i class="fa-brands fa-linkedin"></i>
-              lbl: Linkedin
+              lbl: LinkedIn
               url: https://www.linkedin.com
         - name: News
           rows:
