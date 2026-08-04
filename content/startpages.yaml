@@ -408,6 +408,13 @@
               lbl: vCenter TDR
               url: >-
                 https://vcenter-corp.tdr.internal/ui
+        - name: Automation
+          rows:
+            - !Link
+              ico: <i class"fa-solid fa-awx"></i>
+              lbl: AWX LAT
+              url: >-
+                https://runa-smo-awx.lat.corp-apps.com/#/login
         - name: OpenStack
           rows:
             - !Link
