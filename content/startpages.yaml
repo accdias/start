@@ -367,11 +367,6 @@
                https://technology-service-catalog.corp-apps.com/
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
-              lbl: AWX Ansible LR
-              url: >-
-               https://awx.lr.corp-apps.com/
-            - !Link
-              ico: <i class="fa-solid fa-robot"></i>
               lbl: NS1 KAM
               url: >-
                https://ns1.k1pc.internal:9191/login
@@ -411,10 +406,15 @@
         - name: Automation
           rows:
             - !Link
-              ico: <i class"fa-solid fa-robot"></i>
-              lbl: AWX LAT
+              ico: <i class="fa-solid fa-robot"></i>
+              lbl: AWX Ansible LR
               url: >-
-                https://runa-smo-awx.lat.corp-apps.com/#/login
+               https://awx.lr.corp-apps.com/
+            - !Link
+              ico: <i class"fa-solid fa-robot"></i>
+              lbl: AWX Ansible LAT SMO
+              url: >-
+                https://runa-smo-awx.lat.corp-apps.com/
         - name: OpenStack
           rows:
             - !Link
