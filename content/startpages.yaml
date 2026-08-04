@@ -411,7 +411,7 @@
               url: >-
                https://awx.lr.corp-apps.com/
             - !Link
-              ico: <i class"fa-solid fa-robot"></i>
+              ico: <i class="fa-solid fa-robot"></i>
               lbl: AWX Ansible LAT SMO
               url: >-
                 https://runa-smo-awx.lat.corp-apps.com/
