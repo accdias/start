@@ -288,20 +288,25 @@
         - name: Bookmarks
           rows:
             - !Link
-              ico: <i class="fa-solid fa-phone"></i>
+              ico: <i class="fa-solid fa-confluence"></i>
               lbl: EDGE Main Wiki Page
               url: >-
                 https://wiki.corp-apps.com/x/wRLbH
             - !Link
-              ico: <i class="fa-solid fa-phone"></i>
-              lbl: CITOPS/GDS
-              url: >-
-                https://jiraops.corp-apps.com/servicedesk/customer/portal/108
-            - !Link
-              ico: <i class="fa-solid fa-phone"></i>
+              ico: <i class="fa-solid fa-key"></i>
               lbl: RUEX Password Reset
               url: >-
-                https://passwordchange.ru-corp.robo.ru.com/RDWeb/Pages/en-US/password.aspx
+                https://passwordchange.ru-corp.robo.ru.com/rdweb/pages/en-us/password.aspx
+            - !Link
+              ico: <i class="fa-solid fa-key"></i>
+              lbl: KAZOOTEK Password Reset
+              url: >-
+                https://pwchange-k.corp-apps.com/rdweb/pages/en-us/password.aspx
+            - !Link
+              ico: <i class="fa-solid fa-key"></i>
+              lbl: TEKN Password Reset
+              url: >-
+                https://pwchange.wmtech.email
     - categories:
         - name: Tools
           rows:
@@ -350,6 +355,11 @@
               lbl: Jira
               url: >-
                 https://jiraops.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-jira"></i>
+              lbl: CITOPS/GDS Service Desk
+              url: >-
+                https://jiraops.corp-apps.com/servicedesk/customer/portal/108
             - !Link
               ico: <i class="fa-brands fa-confluence"></i>
               lbl: Confluence
