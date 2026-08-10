@@ -257,6 +257,11 @@
                 https://join.corp-it.net/en-US/meeting/143926?secret=BILOSIvIusQYq_vYorDkuQ
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
+              lbl: Raul's bridge (Host)
+              url: >-
+                https://join.corp-it.net/en-US/meeting/144926?secret=QaVNTvpmpeTQuTT2glbCvQ
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
               lbl: Marius' bridge
               url: >-
                 https://join.corp-it.net/en-US/meeting/143957?secret=ccXNm_Pioszr812b4XjiEA
