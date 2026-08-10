@@ -288,7 +288,7 @@
         - name: Bookmarks
           rows:
             - !Link
-              ico: <i class="fa-solid fa-confluence"></i>
+              ico: <i class="fa-brands fa-confluence"></i>
               lbl: EDGE Main Wiki Page
               url: >-
                 https://wiki.corp-apps.com/x/wRLbH
@@ -356,7 +356,7 @@
               url: >-
                 https://jiraops.corp-apps.com
             - !Link
-              ico: <i class="fa-solid fa-jira"></i>
+              ico: <i class="fa-brands fa-jira"></i>
               lbl: CITOPS/GDS Service Desk
               url: >-
                 https://jiraops.corp-apps.com/servicedesk/customer/portal/108
