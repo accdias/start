@@ -346,7 +346,7 @@
               url: >-
                 https://lifecycle.vpsmgmt.tools/
             - !Link
-              ico: <i class="fa-brands fa-boxes-stacked"></i>
+              ico: <i class="fa-solid fa-boxes-stacked"></i>
               lbl: Wazuh
               url: >-
                 https://wazuh.lr.internal/
