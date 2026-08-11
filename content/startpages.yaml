@@ -306,7 +306,22 @@
               ico: <i class="fa-solid fa-key"></i>
               lbl: TEKN Password Reset
               url: >-
-                https://pwchange.wmtech.email
+                https://pwchange.wmtech.email/RDWeb/Pages/en-us/password.aspx
+            - !Link
+              ico: <i class="fa-solid fa-key"></i>
+              lbl: WMTECH Password Reset
+              url: >-
+                https://pwchange.wmtech.email/RDWeb/Pages/en-us/password.aspx
+            - !Link
+              ico: <i class="fa-solid fa-key"></i>
+              lbl: Avifors TECH Password Reset
+              url: >-
+                https://ads-pwch01-lapd.corp.avifors.tech/RDWeb/Pages/en-us/password.aspx
+            - !Link
+              ico: <i class="fa-solid fa-key"></i>
+              lbl: Avifors GUEST Password Reset
+              url: >-
+                https://guestpasswordreset.techcorpapps.com/RDWeb/Pages/en-US/password.aspx
     - categories:
         - name: Tools
           rows:
