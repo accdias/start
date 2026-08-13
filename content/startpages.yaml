@@ -248,22 +248,22 @@
               ico: <i class="fa-solid fa-phone"></i>
               lbl: My bridge (Host)
               url: >-
-                https://join.corp-serv.net/en-US/meeting/146726/?secret=MTtwXxe.9pPpulswKJvGcw
+                https://join.corp-it.net/en-US/meeting/146726/?secret=MTtwXxe.9pPpulswKJvGcw
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
               lbl: My bridge
               url: >-
-                https://join.corp-serv.net/en-US/meeting/145726/?secret=3Th7NuJarWC35uUXdfUvJQ
-            - !Link
-              ico: <i class="fa-solid fa-phone"></i>
-              lbl: Raul's bridge
-              url: >-
-                https://join.corp-it.net/en-US/meeting/143926?secret=BILOSIvIusQYq_vYorDkuQ
+                https://join.corp-it.net/en-US/meeting/145726/?secret=3Th7NuJarWC35uUXdfUvJQ
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
               lbl: Raul's bridge (Host)
               url: >-
                 https://join.corp-it.net/en-US/meeting/144926?secret=QaVNTvpmpeTQuTT2glbCvQ
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
+              lbl: Raul's bridge
+              url: >-
+                https://join.corp-it.net/en-US/meeting/143926?secret=BILOSIvIusQYq_vYorDkuQ
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
               lbl: Marius' bridge
