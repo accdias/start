@@ -533,3 +533,8 @@
               lbl: Splunk BEL2
               url: >-
                 https://splunk-search.bel2.corp-apps.com
+            - !Link
+              ico: <i class="fa-solid fa-magnifying-glass"></i>
+              lbl: Splunk LAT
+              url: >-
+                https://splunk.lat.corp-apps.ru.com/
