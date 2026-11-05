@@ -105,6 +105,10 @@
         - name: AI
           rows:
             - !Link
+              ico: <i class="fa-solid fa-robot"></i>
+              lbl: OpenCode
+              url: https://opencode.ai/
+            - !Link
               ico: <i class="fa-brands fa-x-twitter"></i>
               lbl: Grok
               url: https://grok.com/
