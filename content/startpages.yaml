@@ -364,6 +364,11 @@
                 https://password.corp-apps.com/
             - !Link
               ico: <i class="fa-solid fa-boxes-stacked"></i>
+              lbl: CMDB Central
+              url: >-
+                https://cmdb-central.atdevops.space/
+            - !Link
+              ico: <i class="fa-solid fa-boxes-stacked"></i>
               lbl: CMDB
               url: >-
                 https://cmdb.techcorpapps.com/
