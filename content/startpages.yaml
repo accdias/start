@@ -463,7 +463,7 @@
           rows:
             - !Link
               ico: <i class="fa-solid fa-server"></i>
-              lbl: vCenter TDR
+              lbl: Proxmox LAT
               url: >-
                 https://prx.lat.corp-apps.com/
         - name: Automation
