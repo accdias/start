@@ -437,7 +437,7 @@
               url: >-
                https://ns1.lrpc.internal:9191/login
     - categories:
-        - name: Virtualization
+        - name: Vmware
           rows:
             - !Link
               ico: <i class="fa-solid fa-server"></i>
@@ -459,6 +459,13 @@
               lbl: vCenter TDR
               url: >-
                 https://vcenter-corp.tdr.internal/ui
+        - name: Proxmox
+          rows:
+            - !Link
+              ico: <i class="fa-solid fa-server"></i>
+              lbl: vCenter TDR
+              url: >-
+                https://prx.lat.corp-apps.com/
         - name: Automation
           rows:
             - !Link
