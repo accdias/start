@@ -282,6 +282,11 @@
                 https://join.corp-it.net/en-US/meeting/143926?secret=BILOSIvIusQYq_vYorDkuQ
             - !Link
               ico: <i class="fa-solid fa-phone"></i>
+              lbl: Tony's Webex bridge
+              url: >-
+                https://smartwareservicesuab.webex.com/meet/antoniope
+            - !Link
+              ico: <i class="fa-solid fa-phone"></i>
               lbl: Marius' bridge
               url: >-
                 https://join.corp-it.net/en-US/meeting/143957?secret=ccXNm_Pioszr812b4XjiEA
