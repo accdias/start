@@ -80,6 +80,10 @@
               url: https://chesttracker.com/counts/2XBPQ5VTBG
             - !Link
               ico: <i class="fa-solid fa-robot"></i>
+              lbl: Chests SK Tango K69
+              url: https://chesttracker.com/counts/YTVPS7GGE7
+            - !Link
+              ico: <i class="fa-solid fa-robot"></i>
               lbl: Chests POP
               url: https://tbclanportal.com/c/5SbakkjL
             - !Link
